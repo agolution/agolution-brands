@@ -1,6 +1,6 @@
 ## AGOLUTION
 
-![AGOLUTION Logo](agolution-logo-500pixel.png)
+![AGOLUTION Logo](agolution-logo-500px.png)
 
 ## Logos & Icons
 
@@ -23,29 +23,29 @@
 [Secondary]: https://ipsumimage.appspot.com/12x12,47647B?l=
 [White]: https://ipsumimage.appspot.com/12x12,FFFFFF?l=
 
-[LogoOriginalSVG]: (agolution-logo-original.svg)
-[LogoOriginalPDF]: (agolution-logo-original.pdf)
-[LogoOriginalPNG500]: (agolution-logo-original-500px.png)
-[LogoOriginalPNG1000]: (agolution-logo-original-1000px.png)
-[LogoAlt1SVG]: (agolution-logo-alt1.svg)
-[LogoAlt1PDF]: (agolution-logo-alt1.pdf)
-[LogoAlt1PNG500]: (agolution-logo-alt1-500px.png)
-[LogoAlt1PNG1000]: (agolution-logo-alt1-1000px.png)
-[LogoAlt2SVG]: (agolution-logo-alt2.svg)
-[LogoAlt2PDF]: (agolution-logo-alt2.pdf)
-[LogoAlt2PNG500]: (agolution-logo-alt2-500px.png)
-[LogoAlt2PNG1000]: (agolution-logo-alt2-1000px.png)
+[LogoOriginalSVG]: agolution-logo-original.svg
+[LogoOriginalPDF]: agolution-logo-original.pdf
+[LogoOriginalPNG500]: agolution-logo-original-500px.png
+[LogoOriginalPNG1000]: agolution-logo-original-1000px.png
+[LogoAlt1SVG]: agolution-logo-alt1.svg
+[LogoAlt1PDF]: agolution-logo-alt1.pdf
+[LogoAlt1PNG500]: agolution-logo-alt1-500px.png
+[LogoAlt1PNG1000]: agolution-logo-alt1-1000px.png)
+[LogoAlt2SVG]: agolution-logo-alt2.svg
+[LogoAlt2PDF]: agolution-logo-alt2.pdf
+[LogoAlt2PNG500]: agolution-logo-alt2-500px.png
+[LogoAlt2PNG1000]: agolution-logo-alt2-1000px.png
 
-[IconOriginalSVG]: (agolution-icon-original.svg)
-[IconOriginalPDF]: (agolution-icon-original.pdf)
-[IconOriginalPNG50]: (agolution-icon-original-500px.png)
-[IconOriginalPNG500]: (agolution-icon-original.svg)
-[IconOriginalPNG1000]: (agolution-icon-original.svg)
-[LogoAlt1SVG]: (agolution-icon-alt1.svg)
-[LogoAlt1PDF]: (agolution-icon-alt1.pdf)
-[LogoAlt1PNG50]: (agolution-icon-alt1.svg)
-[LogoAlt1PNG500]: (agolution-icon-alt1.svg)
-[LogoAlt1PNG1000]: (agolution-icon-alt1.svg)
+[IconOriginalSVG]: agolution-icon-original.svg
+[IconOriginalPDF]: agolution-icon-original.pdf
+[IconOriginalPNG50]: agolution-icon-original-500px.png
+[IconOriginalPNG500]: agolution-icon-original.svg
+[IconOriginalPNG1000]: agolution-icon-original.svg
+[LogoAlt1SVG]: agolution-icon-alt1.svg
+[LogoAlt1PDF]: agolution-icon-alt1.pdf
+[LogoAlt1PNG50]: agolution-icon-alt1.svg
+[LogoAlt1PNG500]: agolution-icon-alt1.svg
+[LogoAlt1PNG1000]: agolution-icon-alt1.svg
 
 ## Website
 
