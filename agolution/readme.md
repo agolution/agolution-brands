@@ -1,4 +1,4 @@
-## AGOLUTION
+# AGOLUTION
 
 ![AGOLUTION Logo](agolution-logo-original-500px.png)
 
