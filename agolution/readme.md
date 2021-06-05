@@ -1,6 +1,6 @@
 ## AGOLUTION
 
-![AGOLUTION Logo](agolution-logo-500px.png)
+![AGOLUTION Logo](agolution-logo-original-500px.png)
 
 ## Logos & Icons
 
@@ -30,7 +30,7 @@
 [LogoAlt1SVG]: agolution-logo-alt1.svg
 [LogoAlt1PDF]: agolution-logo-alt1.pdf
 [LogoAlt1PNG500]: agolution-logo-alt1-500px.png
-[LogoAlt1PNG1000]: agolution-logo-alt1-1000px.png)
+[LogoAlt1PNG1000]: agolution-logo-alt1-1000px.png
 [LogoAlt2SVG]: agolution-logo-alt2.svg
 [LogoAlt2PDF]: agolution-logo-alt2.pdf
 [LogoAlt2PNG500]: agolution-logo-alt2-500px.png
