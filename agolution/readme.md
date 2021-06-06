@@ -10,7 +10,7 @@
 |          | Alternative #1 | ![Primary] ![White]     | [Download][LogoAlt1SVG]     | [Download][LogoAlt1PDF]     |               –               | [Download][LogoAlt1PNG500]     | [Download][LogoAlt1PNG1000]     |
 |          | Alternative #2 | ![White]                | [Download][LogoAlt2SVG]     | [Download][LogoAlt2PDF]     |               –               | [Download][LogoAlt2PNG500]     | [Download][LogoAlt2PNG1000]     |
 | **Icon** | **Original**   | ![Primary]              | [Download][IconOriginalSVG] | [Download][IconOriginalPDF] | [Download][IconOriginalPNG50] | [Download][IconOriginalPNG500] | [Download][IconOriginalPNG1000] |
-|          | Alternative #1 | ![White]                | [Download][LogoAlt1SVG]     | [Download][LogoAlt1PDF]     |   [Download][LogoAlt1PNG50]   | [Download][LogoAlt1PNG500]     | [Download][LogoAlt1PNG1000]     |
+|          | Alternative #1 | ![White]                | [Download][IconAlt1SVG]     | [Download][IconAlt1PDF]     |   [Download][IconAlt1PNG50]   | [Download][IconAlt1PNG500]     | [Download][IconAlt1PNG1000]     |
 
 ## Colors
 
@@ -39,13 +39,13 @@
 [IconOriginalSVG]: agolution-icon-original.svg
 [IconOriginalPDF]: agolution-icon-original.pdf
 [IconOriginalPNG50]: agolution-icon-original-500px.png
-[IconOriginalPNG500]: agolution-icon-original.svg
-[IconOriginalPNG1000]: agolution-icon-original.svg
+[IconOriginalPNG500]: agolution-icon-original.png
+[IconOriginalPNG1000]: agolution-icon-original.png
 [LogoAlt1SVG]: agolution-icon-alt1.svg
 [LogoAlt1PDF]: agolution-icon-alt1.pdf
-[LogoAlt1PNG50]: agolution-icon-alt1.svg
-[LogoAlt1PNG500]: agolution-icon-alt1.svg
-[LogoAlt1PNG1000]: agolution-icon-alt1.svg
+[LogoAlt1PNG50]: agolution-icon-alt1.png
+[LogoAlt1PNG500]: agolution-icon-alt1.png
+[LogoAlt1PNG1000]: agolution-icon-alt1.png
 
 ## Website
 
