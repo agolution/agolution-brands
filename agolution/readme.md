@@ -41,11 +41,11 @@
 [IconOriginalPNG50]: agolution-icon-original-50px.png
 [IconOriginalPNG500]: agolution-icon-original-500px.png
 [IconOriginalPNG1000]: agolution-icon-original-1000px.png
-[LogoAlt1SVG]: agolution-icon-alt1.svg
-[LogoAlt1PDF]: agolution-icon-alt1.pdf
-[LogoAlt1PNG50]: agolution-icon-alt1-50px.png
-[LogoAlt1PNG500]: agolution-icon-alt1-500px.png
-[LogoAlt1PNG1000]: agolution-icon-alt1-1000px.png
+[IconAlt1SVG]: agolution-icon-alt1.svg
+[IconAlt1PDF]: agolution-icon-alt1.pdf
+[IconAlt1PNG50]: agolution-icon-alt1-50px.png
+[IconAlt1PNG500]: agolution-icon-alt1-500px.png
+[IconAlt1PNG1000]: agolution-icon-alt1-1000px.png
 
 ## Website
 
