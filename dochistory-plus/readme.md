@@ -16,7 +16,7 @@
 
 | Type      | Demo         | HEX       | RGB              |
 | --------- | ------------ | --------- | ---------------- |
-| Primary   | ![Primary]   | `#AAA5DB` | `R205 G164 B133` |
+| Primary   | ![Primary]   | `#AAA5DB` | `R170 G165 B219` |
 | Secondary | ![Secondary] | `#47647B` | `R71  G100 B123` |
 
 [Primary]: https://ipsumimage.appspot.com/12x12,AAA5DB?l=
