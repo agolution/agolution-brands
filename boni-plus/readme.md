@@ -4,7 +4,7 @@
 
 ## Logos & Icons
 
-| Content  | Color variante | Color demo                       | SVG                         | PDF                         |           PNG 50px            | PNG 500px                      | PNG 1000px                      |
+| Content  | Color variante | Colors                           | SVG                         | PDF                         |           PNG 50px            | PNG 500px                      | PNG 1000px                      |
 | -------- | -------------- | -------------------------------- | --------------------------- | --------------------------- | :---------------------------: | ------------------------------ | ------------------------------- |
 | **Logo** | **Original**   | ![Secondary] ![Primary] ![White] | [Download][LogoOriginalSVG] | [Download][LogoOriginalPDF] |               –               | [Download][LogoOriginalPNG500] | [Download][LogoOriginalPNG1000] |
 |          | Alternative #1 | ![Secondary] ![White] ![Primary] | [Download][LogoAlt1SVG]     | [Download][LogoAlt1PDF]     |               –               | [Download][LogoAlt1PNG500]     | [Download][LogoAlt1PNG1000]     |
