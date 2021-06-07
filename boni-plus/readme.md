@@ -1,16 +1,16 @@
-# AGOLUTION
+# BONI+
 
-![AGOLUTION Logo](boni-plus-logo-original-500px.png)
+![BONI+ Logo](boni-plus-logo-original-500px.png)
 
 ## Logos & Icons
 
-| Content  | Color variante | Color demo              | SVG                         | PDF                         |           PNG 50px            | PNG 500px                      | PNG 1000px                      |
-| -------- | -------------- | ----------------------- | --------------------------- | --------------------------- | :---------------------------: | ------------------------------ | ------------------------------- |
-| **Logo** | **Original**   | ![Primary] ![Secondary] | [Download][LogoOriginalSVG] | [Download][LogoOriginalPDF] |               –               | [Download][LogoOriginalPNG500] | [Download][LogoOriginalPNG1000] |
-|          | Alternative #1 | ![Primary] ![White]     | [Download][LogoAlt1SVG]     | [Download][LogoAlt1PDF]     |               –               | [Download][LogoAlt1PNG500]     | [Download][LogoAlt1PNG1000]     |
-|          | Alternative #2 | ![White]                | [Download][LogoAlt2SVG]     | [Download][LogoAlt2PDF]     |               –               | [Download][LogoAlt2PNG500]     | [Download][LogoAlt2PNG1000]     |
-| **Icon** | **Original**   | ![Primary] ![White]     | [Download][IconOriginalSVG] | [Download][IconOriginalPDF] | [Download][IconOriginalPNG50] | [Download][IconOriginalPNG500] | [Download][IconOriginalPNG1000] |
-|          | Alternative #1 | ![White] ![Primary]     | [Download][IconAlt1SVG]     | [Download][IconAlt1PDF]     |   [Download][IconAlt1PNG50]   | [Download][IconAlt1PNG500]     | [Download][IconAlt1PNG1000]     |
+| Content  | Color variante | Color demo                       | SVG                         | PDF                         |           PNG 50px            | PNG 500px                      | PNG 1000px                      |
+| -------- | -------------- | -------------------------------- | --------------------------- | --------------------------- | :---------------------------: | ------------------------------ | ------------------------------- |
+| **Logo** | **Original**   | ![Secondary] ![Primary] ![White] | [Download][LogoOriginalSVG] | [Download][LogoOriginalPDF] |               –               | [Download][LogoOriginalPNG500] | [Download][LogoOriginalPNG1000] |
+|          | Alternative #1 | ![Secondary] ![White] ![Primary] | [Download][LogoAlt1SVG]     | [Download][LogoAlt1PDF]     |               –               | [Download][LogoAlt1PNG500]     | [Download][LogoAlt1PNG1000]     |
+|          | Alternative #2 | ![White] ![Primary]              | [Download][LogoAlt2SVG]     | [Download][LogoAlt2PDF]     |               –               | [Download][LogoAlt2PNG500]     | [Download][LogoAlt2PNG1000]     |
+| **Icon** | **Original**   | ![Primary] ![White]              | [Download][IconOriginalSVG] | [Download][IconOriginalPDF] | [Download][IconOriginalPNG50] | [Download][IconOriginalPNG500] | [Download][IconOriginalPNG1000] |
+|          | Alternative #1 | ![White] ![Primary]              | [Download][IconAlt1SVG]     | [Download][IconAlt1PDF]     |   [Download][IconAlt1PNG50]   | [Download][IconAlt1PNG500]     | [Download][IconAlt1PNG1000]     |
 
 ## Colors
 
@@ -49,4 +49,4 @@
 
 ## Website
 
-<https://datacap.plus>
+<https://boni.plus>
