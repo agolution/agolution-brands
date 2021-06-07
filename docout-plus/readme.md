@@ -16,7 +16,7 @@
 
 | Type      | Demo         | HEX       | RGB              |
 | --------- | ------------ | --------- | ---------------- |
-| Primary   | ![Primary]   | `#87C9D9` | `R226 G161 B1` |
+| Primary   | ![Primary]   | `#87C9D9` | `R135 G201 B217` |
 | Secondary | ![Secondary] | `#47647B` | `R71  G100 B123` |
 
 [Primary]: https://ipsumimage.appspot.com/12x12,87C9D9?l=
