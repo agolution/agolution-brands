@@ -1,19 +1,41 @@
-## AGOLUTION GmbH Brands
+## AGOLUTION Brands
 
-This repository contains the logos, icons, color palettes and other media of AGOLUTION GmbH and its products.
+This repository contains the logos, icons, color palettes and other media of AGOLUTION and its products.
 
-| Name             | Logo                                                                  | Icon                                                                                                  | More                   |
-| ---------------- | --------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------- | ---------------------- |
-| [DATACAP+][1]    |                                                                       | ![datacap-plus-icon-48x48pixel-0dpi.png](datacap-plus/datacap-plus-icon-48x48pixel-0dpi.png)          | [...](datacap-plus)    |
-| [DOCHISTORY+][2] |                                                                       | ![dochistory-plus-icon-48x48pixel-0dpi.png](dochistory-plus/dochistory-plus-icon-48x48pixel-0dpi.png) | [...](dochistory-plus) |
-| [DOCOUT+][3]     | ![docout-plus-logo.svg](docout-plus/docout-plus-logo.svg)             | ![docout-plus-icon-48x48pixel-0dpi.png](docout-plus/docout-plus-icon-48x48pixel-0dpi.png)             | [...](docout-plus)     |
-| [DOCIN+][4]      | ![docin-plus-logo.svg](docin-plus/docin-plus-logo.svg)                | ![docin-plus-icon-48x48pixel-0dpi.png](docin-plus/docin-plus-icon-48x48pixel-0dpi.png)                | [...](docin-plus)      |
-| [BONI+][5]       |                                                                       | ![boni-plus-icon-48x48pixel-0dpi.png](boni-plus/boni-plus-icon-48x48pixel-0dpi.png)                   | [...](boni-plus)       |
-| [DATARENAME+][6] | ![datarename-plus-logo.svg](datarename-plus/datarename-plus-logo.svg) |                                                                                                       | [...](datarename-plus) |
+| Brand           | Icon                      | Website                   |
+| --------------- | :-----------------------: | ------------------------- |
+| [AGOLUTION]     | ![agolution-icon]         | <https://agolution.com>   |
+| [NAVISION24]    | ![navision24-icon]        | <https://navision24.de>   |
+| [BONI+]         | ![boni-plus-icon]         | <https://boni.plus>       |
+| [DATACAP+]      | ![datacap-plus-icon]      | <https://datacap.plus>    |
+| [DATARENAME+]   | ![datarename-plus-icon]   |                           |
+| [DOCHISTORY+]   | ![dochistory-plus-icon]   | <https://dochistory.plus> |
+| [DOCIN+]        | ![docin-plus-icon]        |                           |
+| [DOCOUT+]       | ![docout-plus-icon]       |                           |
+| [MASTERDATA+]   | ![masterdata-plus-icon]   |                           |
+| [MULTICHANNEL+] | ![multichannel-plus-icon] |                           |
+| [CRONUS AG]     | ![cronus-ag-icon]         | <https://cronus.ag>       |
 
-[1]: https://datacap.plus
-[2]: https://dochistory.plus
-[3]: https://docout.plus
-[4]: https://docin.plus
-[5]: https://boni.plus
-[6]: https://datarename.plus
+[AGOLUTION]: agolution/
+[NAVISION24]: navision24/
+[BONI+]: boni-plus/
+[DATACAP+]: datacap-plus/
+[DATARENAME+]: datarename-plus/
+[DOCHISTORY+]: dochistory-plus/
+[DOCIN+]: docin-plus/
+[DOCOUT+]: docout-plus/
+[MASTERDATA+]: masterdata-plus/
+[MULTICHANNEL+]: multichannel-plus/
+[CRONUS AG]: cronus-ag/
+
+[agolution-icon]: agolution/agolution-icon-original-50px.png
+[navision24-icon]: navision24/navision24-icon-original-50px.png
+[boni-plus-icon]: boni-plus/boni-plus-icon-original-50px.png
+[datacap-plus-icon]: datacap-plus/datacap-plus-icon-original-50px.png
+[datarename-plus-icon]: datarename-plus/datarename-plus-icon-original-50px.png
+[dochistory-plus-icon]: dochistory-plus/dochistory-plus-icon-original-50px.png
+[docin-plus-icon]: docin-plus/docin-plus-icon-original-50px.png
+[docout-plus-icon]: docout-plus/docout-plus-icon-original-50px.png
+[masterdata-plus-icon]: masterdata-plus/masterdata-plus-icon-original-50px.png
+[multichannel-plus-icon]: multichannel-plus/multichannel-plus-icon-original-50px.png
+[cronus-ag-icon]: cronus-ag/cronus-ag-icon-original-50px.png
