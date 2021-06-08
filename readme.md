@@ -16,17 +16,17 @@ This repository contains the logos, icons, color palettes and other media of AGO
 | [MULTICHANNEL+] | ![multichannel-plus-icon] |                           |
 | [CRONUS AG]     | ![cronus-ag-icon]         | <https://cronus.ag>       |
 
-[AGOLUTION]: agolution/
-[NAVISION24]: navision24/
-[BONI+]: boni-plus/
-[DATACAP+]: datacap-plus/
-[DATARENAME+]: datarename-plus/
-[DOCHISTORY+]: dochistory-plus/
-[DOCIN+]: docin-plus/
-[DOCOUT+]: docout-plus/
-[MASTERDATA+]: masterdata-plus/
-[MULTICHANNEL+]: multichannel-plus/
-[CRONUS AG]: cronus-ag/
+[AGOLUTION]: agolution#agolution
+[NAVISION24]: navision24#navision24
+[BONI+]: boni-plus#boni
+[DATACAP+]: datacap-plus#datacap
+[DATARENAME+]: datarename-plus#datarename
+[DOCHISTORY+]: dochistory-plus#dochistory
+[DOCIN+]: docin-plus#docin
+[DOCOUT+]: docout-plus#docout
+[MASTERDATA+]: masterdata-plus#masterdata
+[MULTICHANNEL+]: multichannel-plus#multichannel
+[CRONUS AG]: cronus-ag#cronus-ag
 
 [agolution-icon]: agolution/agolution-icon-original-50px.png
 [navision24-icon]: navision24/navision24-icon-original-50px.png
