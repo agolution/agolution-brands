@@ -19,9 +19,9 @@
 | Primary   | ![Primary]   | `#AAA5DB` | `R170 G165 B219` |
 | Secondary | ![Secondary] | `#47647B` | `R71  G100 B123` |
 
-[Primary]: https://ipsumimage.appspot.com/12x12,AAA5DB?l=
-[Secondary]: https://ipsumimage.appspot.com/12x12,47647B?l=
-[White]: https://ipsumimage.appspot.com/12x12,FFFFFF?l=
+[Primary]: ../colors/AAA5DB.png
+[Secondary]: ../colors/47647B.png
+[White]: ../colors/FFFFFF.png
 
 [LogoOriginalSVG]: dochistory-plus-logo-original.svg
 [LogoOriginalPDF]: dochistory-plus-logo-original.pdf

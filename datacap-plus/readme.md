@@ -19,9 +19,9 @@
 | Primary   | ![Primary]   | `#CEA7A5` | `R206 G167 B165` |
 | Secondary | ![Secondary] | `#47647B` | `R71  G100 B123` |
 
-[Primary]: https://ipsumimage.appspot.com/12x12,CEA7A5?l=
-[Secondary]: https://ipsumimage.appspot.com/12x12,47647B?l=
-[White]: https://ipsumimage.appspot.com/12x12,FFFFFF?l=
+[Primary]: ../colors/CEA7A5.png
+[Secondary]: ../colors/47647B.png
+[White]: ../colors/FFFFFF.png
 
 [LogoOriginalSVG]: datacap-plus-logo-original.svg
 [LogoOriginalPDF]: datacap-plus-logo-original.pdf

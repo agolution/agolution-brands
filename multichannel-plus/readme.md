@@ -19,9 +19,9 @@
 | Primary   | ![Primary]   | `#7ACC93` | `R122 G204 B147` |
 | Secondary | ![Secondary] | `#47647B` | `R71  G100 B123` |
 
-[Primary]: https://ipsumimage.appspot.com/12x12,7ACC93?l=
-[Secondary]: https://ipsumimage.appspot.com/12x12,47647B?l=
-[White]: https://ipsumimage.appspot.com/12x12,FFFFFF?l=
+[Primary]: ../colors/7ACC93.png
+[Secondary]: ../colors/47647B.png
+[White]: ../colors/FFFFFF.png
 
 [LogoOriginalSVG]: multichannel-plus-logo-original.svg
 [LogoOriginalPDF]: multichannel-plus-logo-original.pdf

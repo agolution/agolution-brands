@@ -19,9 +19,9 @@
 | Primary   | ![Primary]   | `#00AEC7` | `R0   G174 B199` |
 | Secondary | ![Secondary] | `#47647B` | `R71  G100 B123` |
 
-[Primary]: https://ipsumimage.appspot.com/12x12,00AEC7?l=
-[Secondary]: https://ipsumimage.appspot.com/12x12,47647B?l=
-[White]: https://ipsumimage.appspot.com/12x12,FFFFFF?l=
+[Primary]: ../colors/00aec7.png
+[Secondary]: ../colors/47647b.png
+[White]: ../colors/FFFFFF.png
 
 [LogoOriginalSVG]: agolution-logo-original.svg
 [LogoOriginalPDF]: agolution-logo-original.pdf

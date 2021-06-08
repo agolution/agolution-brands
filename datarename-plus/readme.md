@@ -19,9 +19,9 @@
 | Primary   | ![Primary]   | `#CDA485` | `R205 G164 B133` |
 | Secondary | ![Secondary] | `#47647B` | `R71  G100 B123` |
 
-[Primary]: https://ipsumimage.appspot.com/12x12,CDA485?l=
-[Secondary]: https://ipsumimage.appspot.com/12x12,47647B?l=
-[White]: https://ipsumimage.appspot.com/12x12,FFFFFF?l=
+[Primary]: ../colors/CDA485.png
+[Secondary]: ../colors/47647B.png
+[White]: ../colors/FFFFFF.png
 
 [LogoOriginalSVG]: datarename-plus-logo-original.svg
 [LogoOriginalPDF]: datarename-plus-logo-original.pdf

@@ -19,9 +19,9 @@
 | Primary   | ![Primary]   | `#E2A101` | `R226 G161 B1` |
 | Secondary | ![Secondary] | `#47647B` | `R71  G100 B123` |
 
-[Primary]: https://ipsumimage.appspot.com/12x12,E2A101?l=
-[Secondary]: https://ipsumimage.appspot.com/12x12,47647B?l=
-[White]: https://ipsumimage.appspot.com/12x12,FFFFFF?l=
+[Primary]: ../colors/E2A101.png
+[Secondary]: ../colors/47647B.png
+[White]: ../colors/FFFFFF.png
 
 [LogoOriginalSVG]: docin-plus-logo-original.svg
 [LogoOriginalPDF]: docin-plus-logo-original.pdf

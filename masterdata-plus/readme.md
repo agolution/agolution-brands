@@ -19,9 +19,9 @@
 | Primary   | ![Primary]   | `#CCCC33` | `R204 G204 B51`  |
 | Secondary | ![Secondary] | `#47647B` | `R71  G100 B123` |
 
-[Primary]: https://ipsumimage.appspot.com/12x12,CCCC33?l=
-[Secondary]: https://ipsumimage.appspot.com/12x12,47647B?l=
-[White]: https://ipsumimage.appspot.com/12x12,FFFFFF?l=
+[Primary]: ../colors/CCCC33.png
+[Secondary]: ../colors/47647B.png
+[White]: ../colors/FFFFFF.png
 
 [LogoOriginalSVG]: masterdata-plus-logo-original.svg
 [LogoOriginalPDF]: masterdata-plus-logo-original.pdf

@@ -19,9 +19,9 @@
 | Primary   | ![Primary]   | `#EB9FC9` | `R235 G159 B201` |
 | Secondary | ![Secondary] | `#47647B` | `R71  G100 B123` |
 
-[Primary]: https://ipsumimage.appspot.com/12x12,EB9FC9?l=
-[Secondary]: https://ipsumimage.appspot.com/12x12,47647B?l=
-[White]: https://ipsumimage.appspot.com/12x12,FFFFFF?l=
+[Primary]: ../colors/EB9FC9.png
+[Secondary]: ../colors/47647B.png
+[White]: ../colors/FFFFFF.png
 
 [LogoOriginalSVG]: boni-plus-logo-original.svg
 [LogoOriginalPDF]: boni-plus-logo-original.pdf
