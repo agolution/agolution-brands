@@ -4,13 +4,13 @@
 
 ## Logos & Icons
 
-| Content  | Color variante | Colors                           | SVG                         | PDF                         |           PNG 50px            | PNG 500px                      | PNG 1000px                      |
-| -------- | -------------- | -------------------------------- | --------------------------- | --------------------------- | :---------------------------: | ------------------------------ | ------------------------------- |
-| **Logo** | **Original**   | ![Secondary] ![Primary] ![White] | [Download][LogoOriginalSVG] | [Download][LogoOriginalPDF] |               –               | [Download][LogoOriginalPNG500] | [Download][LogoOriginalPNG1000] |
-|          | Alternative #1 | ![Secondary] ![White] ![Primary] | [Download][LogoAlt1SVG]     | [Download][LogoAlt1PDF]     |               –               | [Download][LogoAlt1PNG500]     | [Download][LogoAlt1PNG1000]     |
-|          | Alternative #2 | ![White] ![Primary]              | [Download][LogoAlt2SVG]     | [Download][LogoAlt2PDF]     |               –               | [Download][LogoAlt2PNG500]     | [Download][LogoAlt2PNG1000]     |
-| **Icon** | **Original**   | ![Primary] ![White]              | [Download][IconOriginalSVG] | [Download][IconOriginalPDF] | [Download][IconOriginalPNG50] | [Download][IconOriginalPNG500] | [Download][IconOriginalPNG1000] |
-|          | Alternative #1 | ![White] ![Primary]              | [Download][IconAlt1SVG]     | [Download][IconAlt1PDF]     |   [Download][IconAlt1PNG50]   | [Download][IconAlt1PNG500]     | [Download][IconAlt1PNG1000]     |
+| Content  | Color variante | Colors                           | SVG                         | PDF                         |          PNG 48x48px          |           PNG 50px            |         PNG 162x162px          | PNG 216x216px                  | PNG 500px                      | PNG 1000px                      |
+| -------- | -------------- | -------------------------------- | --------------------------- | --------------------------- | :---------------------------: | :---------------------------: | :----------------------------: | ------------------------------ | ------------------------------ | ------------------------------- |
+| **Logo** | **Original**   | ![Secondary] ![Primary] ![White] | [Download][LogoOriginalSVG] | [Download][LogoOriginalPDF] |               –               |               –               |               –                | –                              | [Download][LogoOriginalPNG500] | [Download][LogoOriginalPNG1000] |
+|          | Alternative #1 | ![Secondary] ![White] ![Primary] | [Download][LogoAlt1SVG]     | [Download][LogoAlt1PDF]     |               –               |               –               |               –                | –                              | [Download][LogoAlt1PNG500]     | [Download][LogoAlt1PNG1000]     |
+|          | Alternative #2 | ![White] ![Primary]              | [Download][LogoAlt2SVG]     | [Download][LogoAlt2PDF]     |               –               |               –               |               –                | –                              | [Download][LogoAlt2PNG500]     | [Download][LogoAlt2PNG1000]     |
+| **Icon** | **Original**   | ![Primary] ![White]              | [Download][IconOriginalSVG] | [Download][IconOriginalPDF] | [Download][IconOriginalPNG48] | [Download][IconOriginalPNG50] | [Download][IconOriginalPNG162] | [Download][IconOriginalPNG216] | [Download][IconOriginalPNG500] | [Download][IconOriginalPNG1000] |
+|          | Alternative #1 | ![White] ![Primary]              | [Download][IconAlt1SVG]     | [Download][IconAlt1PDF]     |               –               |   [Download][IconAlt1PNG50]   |               –                | –                              | [Download][IconAlt1PNG500]     | [Download][IconAlt1PNG1000]     |
 
 ## Colors
 
@@ -38,7 +38,10 @@
 
 [IconOriginalSVG]: docout-plus-icon-original.svg
 [IconOriginalPDF]: docout-plus-icon-original.pdf
+[IconOriginalPNG48]: docout-plus-icon-original-48px.png
 [IconOriginalPNG50]: docout-plus-icon-original-50px.png
+[IconOriginalPNG162]: docout-plus-icon-original-162px.png
+[IconOriginalPNG216]: docout-plus-icon-original-216px.png
 [IconOriginalPNG500]: docout-plus-icon-original-500px.png
 [IconOriginalPNG1000]: docout-plus-icon-original-1000px.png
 [IconAlt1SVG]: docout-plus-icon-alt1.svg
