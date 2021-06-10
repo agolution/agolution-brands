@@ -4,7 +4,7 @@
 
 ## Logos & Icons
 
-| Content  | Color variante | Color demo              | SVG                         | PDF                         |           PNG 50px            | PNG 500px                      | PNG 1000px                      |
+| Content  | Color variante | Colors                  | SVG                         | PDF                         |           PNG 50px            | PNG 500px                      | PNG 1000px                      |
 | -------- | -------------- | ----------------------- | --------------------------- | --------------------------- | :---------------------------: | ------------------------------ | ------------------------------- |
 | **Logo** | **Original**   | ![Primary] ![Secondary] | [Download][LogoOriginalSVG] | [Download][LogoOriginalPDF] |               –               | [Download][LogoOriginalPNG500] | [Download][LogoOriginalPNG1000] |
 |          | Alternative #1 | ![Primary] ![White]     | [Download][LogoAlt1SVG]     | [Download][LogoAlt1PDF]     |               –               | [Download][LogoAlt1PNG500]     | [Download][LogoAlt1PNG1000]     |
@@ -19,9 +19,9 @@
 | Primary   | ![Primary]   | `#00AEC7` | `R0   G174 B199` |
 | Secondary | ![Secondary] | `#47647B` | `R71  G100 B123` |
 
-[Primary]: https://ipsumimage.appspot.com/12x12,00AEC7?l=
-[Secondary]: https://ipsumimage.appspot.com/12x12,47647B?l=
-[White]: https://ipsumimage.appspot.com/12x12,FFFFFF?l=
+[Primary]: ../colors/00AEC7.png
+[Secondary]: ../colors/47647B.png
+[White]: ../colors/FFFFFF.png
 
 [LogoOriginalSVG]: agolution-logo-original.svg
 [LogoOriginalPDF]: agolution-logo-original.pdf

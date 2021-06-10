@@ -24,9 +24,9 @@
 
 <https://navision24.de>
 
-[Primary]: https://ipsumimage.appspot.com/12x12,00AEC7?l=
-[Secondary]: https://ipsumimage.appspot.com/12x12,47647B?l=
-[White]: https://ipsumimage.appspot.com/12x12,FFFFFF?l=
+[Primary]: ../colors/00AEC7.png
+[Secondary]: ../colors/47647B.png
+[White]: ../colors/FFFFFF.png
 
 [LogoOriginalSVG]: navision24-logo-original.svg
 [LogoOriginalPDF]: navision24-logo-original.pdf
