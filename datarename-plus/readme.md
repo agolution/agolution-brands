@@ -38,10 +38,10 @@
 
 [IconOriginalSVG]: datarename-plus-icon-original.svg
 [IconOriginalPDF]: datarename-plus-icon-original.pdf
-[IconOriginalPNG48]: datarename-plus-icon-original-48px.png
+[IconOriginalPNG48]: datarename-plus-icon-original-48x48px.png
 [IconOriginalPNG50]: datarename-plus-icon-original-50px.png
-[IconOriginalPNG162]: datarename-plus-icon-original-162px.png
-[IconOriginalPNG216]: datarename-plus-icon-original-216px.png
+[IconOriginalPNG162]: datarename-plus-icon-original-162x162px.png
+[IconOriginalPNG216]: datarename-plus-icon-original-216x216px.png
 [IconOriginalPNG500]: datarename-plus-icon-original-500px.png
 [IconOriginalPNG1000]: datarename-plus-icon-original-1000px.png
 [IconAlt1SVG]: datarename-plus-icon-alt1.svg

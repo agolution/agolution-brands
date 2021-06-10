@@ -38,10 +38,10 @@
 
 [IconOriginalSVG]: multichannel-plus-icon-original.svg
 [IconOriginalPDF]: multichannel-plus-icon-original.pdf
-[IconOriginalPNG48]: multichannel-plus-icon-original-48px.png
+[IconOriginalPNG48]: multichannel-plus-icon-original-48x48px.png
 [IconOriginalPNG50]: multichannel-plus-icon-original-50px.png
-[IconOriginalPNG162]: multichannel-plus-icon-original-162px.png
-[IconOriginalPNG216]: multichannel-plus-icon-original-216px.png
+[IconOriginalPNG162]: multichannel-plus-icon-original-162x162px.png
+[IconOriginalPNG216]: multichannel-plus-icon-original-216x216px.png
 [IconOriginalPNG500]: multichannel-plus-icon-original-500px.png
 [IconOriginalPNG1000]: multichannel-plus-icon-original-1000px.png
 [IconAlt1SVG]: multichannel-plus-icon-alt1.svg

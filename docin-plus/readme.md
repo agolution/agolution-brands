@@ -38,10 +38,10 @@
 
 [IconOriginalSVG]: docin-plus-icon-original.svg
 [IconOriginalPDF]: docin-plus-icon-original.pdf
-[IconOriginalPNG48]: docin-plus-icon-original-48px.png
+[IconOriginalPNG48]: docin-plus-icon-original-48x48px.png
 [IconOriginalPNG50]: docin-plus-icon-original-50px.png
-[IconOriginalPNG162]: docin-plus-icon-original-162px.png
-[IconOriginalPNG216]: docin-plus-icon-original-216px.png
+[IconOriginalPNG162]: docin-plus-icon-original-162x162px.png
+[IconOriginalPNG216]: docin-plus-icon-original-216x216px.png
 [IconOriginalPNG500]: docin-plus-icon-original-500px.png
 [IconOriginalPNG1000]: docin-plus-icon-original-1000px.png
 [IconAlt1SVG]: docin-plus-icon-alt1.svg

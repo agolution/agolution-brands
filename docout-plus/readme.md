@@ -38,10 +38,10 @@
 
 [IconOriginalSVG]: docout-plus-icon-original.svg
 [IconOriginalPDF]: docout-plus-icon-original.pdf
-[IconOriginalPNG48]: docout-plus-icon-original-48px.png
+[IconOriginalPNG48]: docout-plus-icon-original-48x48px.png
 [IconOriginalPNG50]: docout-plus-icon-original-50px.png
-[IconOriginalPNG162]: docout-plus-icon-original-162px.png
-[IconOriginalPNG216]: docout-plus-icon-original-216px.png
+[IconOriginalPNG162]: docout-plus-icon-original-162x162px.png
+[IconOriginalPNG216]: docout-plus-icon-original-216x216px.png
 [IconOriginalPNG500]: docout-plus-icon-original-500px.png
 [IconOriginalPNG1000]: docout-plus-icon-original-1000px.png
 [IconAlt1SVG]: docout-plus-icon-alt1.svg
