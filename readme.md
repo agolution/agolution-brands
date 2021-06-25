@@ -1,6 +1,6 @@
 ## AGOLUTION Brands
 
-This repository contains the logos, icons, color palettes and other media of AGOLUTION and its products.
+This repository contains the logos, icons, colour palettes and other media of our brands, products and websites.
 
 | Brand           |           Icon            | Website                   |
 | --------------- | :-----------------------: | ------------------------- |
