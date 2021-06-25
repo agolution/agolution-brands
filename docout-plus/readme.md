@@ -49,7 +49,3 @@
 [IconAlt1PNG50]: docout-plus-icon-alt1-50px.png
 [IconAlt1PNG500]: docout-plus-icon-alt1-500px.png
 [IconAlt1PNG1000]: docout-plus-icon-alt1-1000px.png
-
-## Website
-
-<https://docout.plus>
