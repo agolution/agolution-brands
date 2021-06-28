@@ -49,7 +49,3 @@
 [IconAlt1PNG50]: cashregister-plus-icon-alt1-50px.png
 [IconAlt1PNG500]: cashregister-plus-icon-alt1-500px.png
 [IconAlt1PNG1000]: cashregister-plus-icon-alt1-1000px.png
-
-## Website
-
-<https://cashregister.plus>
