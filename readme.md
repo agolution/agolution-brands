@@ -1,6 +1,13 @@
 ## AGOLUTION Brands
 
-This repository contains the logos, icons, colour palettes and other media of our brands, products and websites.
+This public repository contains the logos, icons, colour palettes and other media of our brands, products and websites.
+
+This repository is included by sub-module in other repository to be able to use the logos, etc. Examples:
+
+- <https://github.com/agolution/datacap-plus/blob/main/BC/App/app.json#L9>
+- <https://github.com/agolution/agolution-appsource-offers/blob/main/datacap-plus/readme.md>
+
+## Overview
 
 | Brand           |           Icon            | Website                   |
 | --------------- | :-----------------------: | ------------------------- |
