@@ -18,7 +18,7 @@ This repository is included by sub-module in other repository to be able to use 
 | [DATACAP+]      |   ![datacap-plus-icon]    | <https://datacap.plus>    |
 | [DATARENAME+]   |  ![datarename-plus-icon]  |                           |
 | [DOCHISTORY+]   |  ![dochistory-plus-icon]  | <https://dochistory.plus> |
-| [DOCIN+]        |    ![docin-plus-icon]     |                           |
+| [DOCIN+]        |    ![docin-plus-icon]     | <https://docin.plus>      |
 | [DOCOUT+]       |    ![docout-plus-icon]    |                           |
 | [MASTERDATA+]   |  ![masterdata-plus-icon]  |                           |
 | [MULTICHANNEL+] | ![multichannel-plus-icon] |                           |
