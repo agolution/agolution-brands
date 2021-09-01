@@ -1,0 +1,14 @@
+{
+    "name":"MASTERDATA+",
+    "website":"",
+    "colors":{
+        "primary":{
+            "hex":"#CCCC33",
+            "rgb":"R204 G204 B51"
+        },
+        "secondary":{
+            "hex":"#47647B",
+            "rgb":"R71 G100 B123"
+        }
+    }
+}

@@ -1,0 +1,14 @@
+{
+    "name":"BONI+",
+    "website":"https://boni.plus",
+    "colors":{
+        "primary":{
+            "hex":"#EB9FC9",
+            "rgb":"R235 G159 B201"
+        },
+        "secondary":{
+            "hex":"#47647B",
+            "rgb":"R71 G100 B123"
+        }
+    }
+}

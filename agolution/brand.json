@@ -1,0 +1,14 @@
+{
+   "name":"AGOLUTION",
+   "website":"https://agolution.com",
+   "colors":{
+      "primary":{
+         "hex":"#00AEC7",
+         "rgb":"R0 G174 B199"
+      },
+      "secondary":{
+         "hex":"#47647B",
+         "rgb":"R71 G100 B123"
+      }
+   }
+}

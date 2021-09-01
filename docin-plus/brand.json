@@ -1,0 +1,14 @@
+{
+    "name":"DOCIN+",
+    "website":"https://docin.plus",
+    "colors":{
+        "primary":{
+            "hex":"#E2A101",
+            "rgb":"R226 G161 B1"
+        },
+        "secondary":{
+            "hex":"#47647B",
+            "rgb":"R71 G100 B123"
+        }
+    }
+}

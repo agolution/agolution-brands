@@ -1,0 +1,14 @@
+{
+    "name":"DATACAP+",
+    "website":"https://datacap.plus",
+    "colors":{
+        "primary":{
+            "hex":"#CEA7A5",
+            "rgb":"R206 G167 B165"
+        },
+        "secondary":{
+            "hex":"#47647B",
+            "rgb":"R71 G100 B123"
+        }
+    }
+}
