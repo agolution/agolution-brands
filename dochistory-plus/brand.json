@@ -1,0 +1,14 @@
+{
+    "name":"DOCHISTORY+",
+    "website":"https://dochistory.plus",
+    "colors":{
+        "primary":{
+            "hex":"#AAA5DB",
+            "rgb":"R170 G165 B219"
+        },
+        "secondary":{
+            "hex":"#47647B",
+            "rgb":"R71 G100 B123"
+        }
+    }
+}

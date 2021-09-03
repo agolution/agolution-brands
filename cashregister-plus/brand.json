@@ -1,0 +1,14 @@
+{
+    "name":"CASHREGISTER+",
+    "website":"",
+    "colors":{
+        "primary":{
+            "hex":"#F18A92",
+            "rgb":"R241 G138 B146"
+        },
+        "secondary":{
+            "hex":"#47647B",
+            "rgb":"R71 G100 B123"
+        }
+    }
+}

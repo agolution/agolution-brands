@@ -1,0 +1,14 @@
+{
+    "name":"DOCOUT+",
+    "website":"",
+    "colors":{
+        "primary":{
+            "hex":"#87C9D9",
+            "rgb":"R135 G201 B217"
+        },
+        "secondary":{
+            "hex":"#47647B",
+            "rgb":"R71 G100 B123"
+        }
+    }
+}

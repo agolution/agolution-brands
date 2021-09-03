@@ -1,0 +1,14 @@
+{
+    "name":"MULTICHANNEL+",
+    "website":"",
+    "colors":{
+        "primary":{
+            "hex":"#7ACC93",
+            "rgb":"R122 G204 B147"
+        },
+        "secondary":{
+            "hex":"#47647B",
+            "rgb":"R71 G100 B123"
+        }
+    }
+}

@@ -1,0 +1,14 @@
+{
+    "name":"cronus AG",
+    "website":"https://cronus.ag",
+    "colors":{
+        "primary":{
+            "hex":"#4E4E4E",
+            "rgb":"R78 G78 B78"
+        },
+        "secondary":{
+            "hex":"#B4B4B4",
+            "rgb":"R180 G180 B180"
+        }
+    }
+}

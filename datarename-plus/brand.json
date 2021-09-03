@@ -1,0 +1,14 @@
+{
+    "name":"DATARENAME+",
+    "website":"",
+    "colors":{
+        "primary":{
+            "hex":"#CDA485",
+            "rgb":"R205 G164 B133"
+        },
+        "secondary":{
+            "hex":"#47647B",
+            "rgb":"R71 G100 B123"
+        }
+    }
+}
