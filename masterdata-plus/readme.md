@@ -19,9 +19,9 @@
 | Primary   | ![Primary]   | `#CCCC33` | `R204 G204 B51`  |
 | Secondary | ![Secondary] | `#47647B` | `R71  G100 B123` |
 
-[Primary]: ../colors/CCCC33.png
-[Secondary]: ../colors/47647B.png
-[White]: ../colors/FFFFFF.png
+[Primary]: ../helpful-media/CCCC33.png
+[Secondary]: ../helpful-media/47647B.png
+[White]: ../helpful-media/FFFFFF.png
 
 [LogoOriginalSVG]: masterdata-plus-logo-original.svg
 [LogoOriginalPDF]: masterdata-plus-logo-original.pdf

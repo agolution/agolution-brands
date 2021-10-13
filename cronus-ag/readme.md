@@ -18,9 +18,9 @@
 | Primary   | ![Primary]   | `#4E4E4E` | `R78 G78 B78`    |
 | Secondary | ![Secondary] | `#B4B4B4` | `R180 G180 B180` |
 
-[Primary]: ../colors/4E4E4E.png
-[Secondary]: ../colors/B4B4B4.png
-[White]: ../colors/FFFFFF.png
+[Primary]: ../helpful-media/4E4E4E.png
+[Secondary]: ../helpful-media/B4B4B4.png
+[White]: ../helpful-media/FFFFFF.png
 
 [LogoOriginalSVG]: cronus-ag-logo-original.svg
 [LogoOriginalPDF]: cronus-ag-logo-original.pdf

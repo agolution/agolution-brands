@@ -19,9 +19,9 @@
 | Primary   | ![Primary]   | `#EB9FC9` | `R235 G159 B201` |
 | Secondary | ![Secondary] | `#47647B` | `R71  G100 B123` |
 
-[Primary]: ../colors/EB9FC9.png
-[Secondary]: ../colors/47647B.png
-[White]: ../colors/FFFFFF.png
+[Primary]: ../helpful-media/EB9FC9.png
+[Secondary]: ../helpful-media/47647B.png
+[White]: ../helpful-media/FFFFFF.png
 
 [LogoOriginalSVG]: boni-plus-logo-original.svg
 [LogoOriginalPDF]: boni-plus-logo-original.pdf

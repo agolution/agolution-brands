@@ -19,9 +19,9 @@
 | Primary   | ![Primary]   | `#F18A92` | `R241 G138 B146` |
 | Secondary | ![Secondary] | `#47647B` | `R71  G100 B123` |
 
-[Primary]: ../colors/F18A92.png
-[Secondary]: ../colors/47647B.png
-[White]: ../colors/FFFFFF.png
+[Primary]: ../helpful-media/F18A92.png
+[Secondary]: ../helpful-media/47647B.png
+[White]: ../helpful-media/FFFFFF.png
 
 [LogoOriginalSVG]: cashregister-plus-logo-original.svg
 [LogoOriginalPDF]: cashregister-plus-logo-original.pdf
