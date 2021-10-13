@@ -19,9 +19,9 @@
 | Primary   | ![Primary]   | `#E2A101` | `R226 G161 B1` |
 | Secondary | ![Secondary] | `#47647B` | `R71  G100 B123` |
 
-[Primary]: ../colors/E2A101.png
-[Secondary]: ../colors/47647B.png
-[White]: ../colors/FFFFFF.png
+[Primary]: ../helpful-media/E2A101.png
+[Secondary]: ../helpful-media/47647B.png
+[White]: ../helpful-media/FFFFFF.png
 
 [LogoOriginalSVG]: docin-plus-logo-original.svg
 [LogoOriginalPDF]: docin-plus-logo-original.pdf

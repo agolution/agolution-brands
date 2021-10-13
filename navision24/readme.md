@@ -24,9 +24,9 @@
 
 <https://navision24.de>
 
-[Primary]: ../colors/00AEC7.png
-[Secondary]: ../colors/47647B.png
-[White]: ../colors/FFFFFF.png
+[Primary]: ../helpful-media/00AEC7.png
+[Secondary]: ../helpful-media/47647B.png
+[White]: ../helpful-media/FFFFFF.png
 
 [LogoOriginalSVG]: navision24-logo-original.svg
 [LogoOriginalPDF]: navision24-logo-original.pdf

@@ -18,3 +18,9 @@
 [LIB-PNG216]: app-icon-lib-216px.png
 [LIB-PNG500]: app-icon-lib-500px.png
 [LIB-PNG1000]: app-icon-lib-1000px.png
+
+## Usage
+
+These app icons are used in the development of [Business Central extensions](https://appsource.microsoft.com/de-de/marketplace/apps?search=agolution) and are displayed to the user in the extension management.
+
+![Extensions in Business Central](../helpful-media/screenshot-business-central.png)

@@ -19,9 +19,9 @@
 | Primary   | ![Primary]   | `#87C9D9` | `R135 G201 B217` |
 | Secondary | ![Secondary] | `#47647B` | `R71  G100 B123` |
 
-[Primary]: ../colors/87C9D9.png
-[Secondary]: ../colors/47647B.png
-[White]: ../colors/FFFFFF.png
+[Primary]: ../helpful-media/87C9D9.png
+[Secondary]: ../helpful-media/47647B.png
+[White]: ../helpful-media/FFFFFF.png
 
 [LogoOriginalSVG]: docout-plus-logo-original.svg
 [LogoOriginalPDF]: docout-plus-logo-original.pdf

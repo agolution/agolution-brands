@@ -19,9 +19,9 @@
 | Primary   | ![Primary]   | `#CDA485` | `R205 G164 B133` |
 | Secondary | ![Secondary] | `#47647B` | `R71  G100 B123` |
 
-[Primary]: ../colors/CDA485.png
-[Secondary]: ../colors/47647B.png
-[White]: ../colors/FFFFFF.png
+[Primary]: ../helpful-media/CDA485.png
+[Secondary]: ../helpful-media/47647B.png
+[White]: ../helpful-media/FFFFFF.png
 
 [LogoOriginalSVG]: datarename-plus-logo-original.svg
 [LogoOriginalPDF]: datarename-plus-logo-original.pdf

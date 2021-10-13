@@ -19,9 +19,9 @@
 | Primary   | ![Primary]   | `#00AEC7` | `R0   G174 B199` |
 | Secondary | ![Secondary] | `#47647B` | `R71  G100 B123` |
 
-[Primary]: ../colors/00AEC7.png
-[Secondary]: ../colors/47647B.png
-[White]: ../colors/FFFFFF.png
+[Primary]: ../helpful-media/00AEC7.png
+[Secondary]: ../helpful-media/47647B.png
+[White]: ../helpful-media/FFFFFF.png
 
 [LogoOriginalSVG]: agolution-logo-original.svg
 [LogoOriginalPDF]: agolution-logo-original.pdf

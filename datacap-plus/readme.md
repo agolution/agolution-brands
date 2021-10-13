@@ -19,9 +19,9 @@
 | Primary   | ![Primary]   | `#CEA7A5` | `R206 G167 B165` |
 | Secondary | ![Secondary] | `#47647B` | `R71  G100 B123` |
 
-[Primary]: ../colors/CEA7A5.png
-[Secondary]: ../colors/47647B.png
-[White]: ../colors/FFFFFF.png
+[Primary]: ../helpful-media/CEA7A5.png
+[Secondary]: ../helpful-media/47647B.png
+[White]: ../helpful-media/FFFFFF.png
 
 [LogoOriginalSVG]: datacap-plus-logo-original.svg
 [LogoOriginalPDF]: datacap-plus-logo-original.pdf

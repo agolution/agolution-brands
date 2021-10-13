@@ -19,9 +19,9 @@
 | Primary   | ![Primary]   | `#7ACC93` | `R122 G204 B147` |
 | Secondary | ![Secondary] | `#47647B` | `R71  G100 B123` |
 
-[Primary]: ../colors/7ACC93.png
-[Secondary]: ../colors/47647B.png
-[White]: ../colors/FFFFFF.png
+[Primary]: ../helpful-media/7ACC93.png
+[Secondary]: ../helpful-media/47647B.png
+[White]: ../helpful-media/FFFFFF.png
 
 [LogoOriginalSVG]: multichannel-plus-logo-original.svg
 [LogoOriginalPDF]: multichannel-plus-logo-original.pdf
