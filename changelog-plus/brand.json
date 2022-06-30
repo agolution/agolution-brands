@@ -1,0 +1,13 @@
+{
+    "name":"CHANGELOG+",
+    "colors":{
+        "primary":{
+            "hex":"#D54F25",
+            "rgb":"R213 G79 B37"
+        },
+        "secondary":{
+            "hex":"#47647B",
+            "rgb":"R71 G100 B123"
+        }
+    }
+}
