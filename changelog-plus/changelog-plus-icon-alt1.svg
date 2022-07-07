@@ -1,0 +1,28 @@
+<svg id="Ebene_1" data-name="Ebene 1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 128 128">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: none;
+      }
+
+      .cls-2 {
+        clip-path: url(#clip-path);
+      }
+
+      .cls-3 {
+        fill: #fff;
+      }
+
+      .cls-4 {
+        fill: #d54f25;
+      }
+    </style>
+    <clipPath id="clip-path">
+      <rect class="cls-1" x="14.09" width="99.82" height="127.98"/>
+    </clipPath>
+  </defs>
+  <g class="cls-2">
+    <polygon class="cls-3" points="113.91 0 14.09 17.91 14.09 127.98 113.91 109.75 113.91 0"/>
+    <polygon class="cls-4" points="37.95 69.92 58.01 69.92 58.01 89.78 69.99 89.78 69.99 69.92 90.05 69.92 90.05 58.05 69.99 58.05 69.99 38.2 58.01 38.2 58.01 58.05 37.95 58.05 37.95 69.92"/>
+  </g>
+</svg>

@@ -14,6 +14,7 @@ This repository is included by sub-module in other repository to be able to use 
 | [AGOLUTION]     |     ![agolution-icon]     | <https://agolution.com>   |
 | [NAVISION24]    |    ![navision24-icon]     | <https://navision24.de>   |
 | [BONI+]         |     ![boni-plus-icon]     | <https://boni.plus>       |
+| [CHANGELOG+]    |  ![changelog-plus-icon]   |                           |
 | [CASHREGISTER+] | ![cashregister-plus-icon] |                           |
 | [DATACAP+]      |   ![datacap-plus-icon]    | <https://datacap.plus>    |
 | [DATARENAME+]   |  ![datarename-plus-icon]  |                           |
@@ -27,6 +28,7 @@ This repository is included by sub-module in other repository to be able to use 
 [AGOLUTION]: agolution#agolution
 [NAVISION24]: navision24#navision24
 [BONI+]: boni-plus#boni
+[CHANGELOG+]: changelog-plus#changelog
 [CASHREGISTER+]: cashregister-plus#cashregister
 [DATACAP+]: datacap-plus#datacap
 [DATARENAME+]: datarename-plus#datarename
@@ -40,6 +42,7 @@ This repository is included by sub-module in other repository to be able to use 
 [agolution-icon]: agolution/agolution-icon-original-50px.png
 [navision24-icon]: navision24/navision24-icon-original-50px.png
 [boni-plus-icon]: boni-plus/boni-plus-icon-original-50px.png
+[changelog-plus-icon]: changelog-plus/changelog-plus-icon-original-50px.png
 [cashregister-plus-icon]: cashregister-plus/cashregister-plus-icon-original-50px.png
 [datacap-plus-icon]: datacap-plus/datacap-plus-icon-original-50px.png
 [datarename-plus-icon]: datarename-plus/datarename-plus-icon-original-50px.png
