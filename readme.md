@@ -17,7 +17,7 @@ This repository is included by sub-module in other repository to be able to use 
 | [CHANGELOG+]    |  ![changelog-plus-icon]   |                           |
 | [CASHREGISTER+] | ![cashregister-plus-icon] |                           |
 | [DATACAP+]      |   ![datacap-plus-icon]    | <https://datacap.plus>    |
-| [DATARENAME+]   |  ![datarename-plus-icon]  |                           |
+| [DATARENAME+]   |  ![datarename-plus-icon]  | <https://datarename.plus> |
 | [DOCHISTORY+]   |  ![dochistory-plus-icon]  | <https://dochistory.plus> |
 | [DOCIN+]        |    ![docin-plus-icon]     | <https://docin.plus>      |
 | [DOCOUT+]       |    ![docout-plus-icon]    |                           |
