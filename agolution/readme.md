@@ -104,13 +104,13 @@
 [IconAlt1PNG500]: agolution-icon-alt1-500px.png
 [IconAlt1PNG1000]: agolution-icon-alt1-1000px.png
 
-[Lato]: Lato.zip
-[Edo SZ]: edo_sz.zip
+[Lato]: lato.zip
+[Edo SZ]: edo-sz.zip
 
-[Lato-White]: ../helpful-media/lato_w.png
-[Lato-Secondary]: ../helpful-media/lato_s.png
-[Edo-White]: ../helpful-media/edo_w.png
-[Edo-Secondary]: ../helpful-media/edo_s.png
+[Lato-White]: ../helpful-media/lato-w.png
+[Lato-Secondary]: ../helpful-media/lato-s.png
+[Edo-White]: ../helpful-media/edo-w.png
+[Edo-Secondary]: ../helpful-media/edo-s.png
 
 ## Website
 
