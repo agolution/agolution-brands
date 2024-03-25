@@ -19,9 +19,66 @@
 | Primary   | ![Primary]   | `#00AEC7` | `R0   G174 B199` | `631 C`  |
 | Secondary | ![Secondary] | `#47647B` | `R71  G100 B123` | `7545 C` |
 
+### ![Primary] Primary Variations
+| Variation     | Demo           | HEX       | RGB              |
+| ------------- | -------------- | --------- | ---------------- |
+| `80%` `Tint`  | ![Primary-t80] | `#CCEFF4` | `R204 G239 B244` |
+| `40%` `Tint`  | ![Primary-t40] | `#66CEDD` | `R102 G206 B221` |
+| `40%` `Shade` | ![Primary-s40] | `#006877` | `R0   G104 B119` |
+| `80%` `Shade` | ![Primary-s80] | `#002328` | `R0   G35  B40`  |
+
+<!-- Extra Primary Tints -->
+<!-- | `20%` `Tint`  | ![Primary-t20] | `#33BED2` | `R51  G190 B210` | -->
+<!-- | `60%` `Tint`  | ![Primary-t60] | `#99DFE9` | `R153 G223 B233` | -->
+<!-- Extra Primary Shades -->
+<!-- | `20%` `Shade` | ![Primary-s20] | `#008B9F` | `R0   G139 B159` | -->
+<!-- | `60%` `Shade` | ![Primary-s60] | `#004650` | `R0   G70  B80`  | -->
+
+### ![Secondary] Secondary Variations
+| Variation     | Demo             | HEX       | RGB              |
+| ------------- | ---------------- | --------- | ---------------- |
+| `80%` `Tint`  | ![Secondary-t80] | `#DAE0E5` | `R218 G224 B229` |
+| `40%` `Tint`  | ![Secondary-t40] | `#91A2B0` | `R145 G162 B176` |
+| `40%` `Shade` | ![Secondary-s40] | `#2B3C4A` | `R43  G60 B74`   |
+| `80%` `Shade` | ![Secondary-s80] | `#0E1419` | `R14  G20 B25`   |
+
+<!-- Extra Secondary Tints -->
+<!--| `20%` `Tint`  | ![Secondary-t20] | `#6C8395` | `R108 G131 B149` | -->
+<!--| `60%` `Tint`  | ![Secondary-t60] | `#B5C1CA` | `R181 G193 B202` | -->
+<!-- Extra Secondary Shades -->
+<!--| `20%` `Shade` | ![Secondary-s20] | `#395062` | `R57  G80 B98`   | -->
+<!--| `60%` `Shade` | ![Secondary-s60] | `#1C2831` | `R28  G40 B49`   | -->
+
+## Fonts
+| Type       | Name     | Demo ![Secondary] | Demo ![White] |
+| ---------- | -------- | ----------------- | ------------- |
+| Main Font  | [Lato]   | ![Lato-Secondary] | ![Lato-White] |
+| Style Font | [Edo SZ] | ![Edo-Secondary]  | ![Edo-White]  |
+
 [Primary]: ../helpful-media/00AEC7.png
 [Secondary]: ../helpful-media/47647B.png
+[Primary-light]: ../helpful-media/A4D8E3.png
 [White]: ../helpful-media/FFFFFF.png
+
+[Primary-t20]: ../helpful-media/33BED2.png
+[Primary-t40]: ../helpful-media/66CEDD.png
+[Primary-t60]: ../helpful-media/99DFE9.png
+[Primary-t80]: ../helpful-media/CCEFF4.png
+
+[Primary-s20]: ../helpful-media/008B9F.png
+[Primary-s40]: ../helpful-media/006877.png
+[Primary-s60]: ../helpful-media/004650.png
+[Primary-s80]: ../helpful-media/002328.png
+
+[Secondary-t20]: ../helpful-media/6C8395.png
+[Secondary-t40]: ../helpful-media/91A2B0.png
+[Secondary-t60]: ../helpful-media/B5C1CA.png
+[Secondary-t80]: ../helpful-media/DAE0E5.png
+
+[Secondary-s20]: ../helpful-media/395062.png
+[Secondary-s40]: ../helpful-media/2B3C4A.png
+[Secondary-s60]: ../helpful-media/1C2831.png
+[Secondary-s80]: ../helpful-media/0E1419.png
 
 [LogoOriginalSVG]: agolution-logo-original.svg
 [LogoOriginalPDF]: agolution-logo-original.pdf
@@ -46,6 +103,14 @@
 [IconAlt1PNG50]: agolution-icon-alt1-50px.png
 [IconAlt1PNG500]: agolution-icon-alt1-500px.png
 [IconAlt1PNG1000]: agolution-icon-alt1-1000px.png
+
+[Lato]: Lato.zip
+[Edo SZ]: edo_sz.zip
+
+[Lato-White]: ../helpful-media/lato_w.png
+[Lato-Secondary]: ../helpful-media/lato_s.png
+[Edo-White]: ../helpful-media/edo_w.png
+[Edo-Secondary]: ../helpful-media/edo_s.png
 
 ## Website
 
