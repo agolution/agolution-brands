@@ -23,31 +23,25 @@
 | Variation     | Demo           | HEX       | RGB              |
 | ------------- | -------------- | --------- | ---------------- |
 | `80%` `Tint`  | ![Primary-t80] | `#CCEFF4` | `R204 G239 B244` |
+| `60%` `Tint`  | ![Primary-t60] | `#99DFE9` | `R153 G223 B233` |
 | `40%` `Tint`  | ![Primary-t40] | `#66CEDD` | `R102 G206 B221` |
+| `20%` `Tint`  | ![Primary-t20] | `#33BED2` | `R51  G190 B210` |
+| `20%` `Shade` | ![Primary-s20] | `#008B9F` | `R0   G139 B159` |
 | `40%` `Shade` | ![Primary-s40] | `#006877` | `R0   G104 B119` |
+| `60%` `Shade` | ![Primary-s60] | `#004650` | `R0   G70  B80`  |
 | `80%` `Shade` | ![Primary-s80] | `#002328` | `R0   G35  B40`  |
-
-<!-- Extra Primary Tints -->
-<!-- | `20%` `Tint`  | ![Primary-t20] | `#33BED2` | `R51  G190 B210` | -->
-<!-- | `60%` `Tint`  | ![Primary-t60] | `#99DFE9` | `R153 G223 B233` | -->
-<!-- Extra Primary Shades -->
-<!-- | `20%` `Shade` | ![Primary-s20] | `#008B9F` | `R0   G139 B159` | -->
-<!-- | `60%` `Shade` | ![Primary-s60] | `#004650` | `R0   G70  B80`  | -->
 
 ### ![Secondary] Secondary Variations
 | Variation     | Demo             | HEX       | RGB              |
 | ------------- | ---------------- | --------- | ---------------- |
 | `80%` `Tint`  | ![Secondary-t80] | `#DAE0E5` | `R218 G224 B229` |
+| `60%` `Tint`  | ![Secondary-t60] | `#B5C1CA` | `R181 G193 B202` |
 | `40%` `Tint`  | ![Secondary-t40] | `#91A2B0` | `R145 G162 B176` |
+| `20%` `Tint`  | ![Secondary-t20] | `#6C8395` | `R108 G131 B149` |
+| `20%` `Shade` | ![Secondary-s20] | `#395062` | `R57  G80 B98`   |
 | `40%` `Shade` | ![Secondary-s40] | `#2B3C4A` | `R43  G60 B74`   |
+| `60%` `Shade` | ![Secondary-s60] | `#1C2831` | `R28  G40 B49`   |
 | `80%` `Shade` | ![Secondary-s80] | `#0E1419` | `R14  G20 B25`   |
-
-<!-- Extra Secondary Tints -->
-<!--| `20%` `Tint`  | ![Secondary-t20] | `#6C8395` | `R108 G131 B149` | -->
-<!--| `60%` `Tint`  | ![Secondary-t60] | `#B5C1CA` | `R181 G193 B202` | -->
-<!-- Extra Secondary Shades -->
-<!--| `20%` `Shade` | ![Secondary-s20] | `#395062` | `R57  G80 B98`   | -->
-<!--| `60%` `Shade` | ![Secondary-s60] | `#1C2831` | `R28  G40 B49`   | -->
 
 ## Fonts
 | Type       | Name     | Demo ![Secondary] | Demo ![White] |
