@@ -16,7 +16,7 @@
 
 | Type      | Demo         | HEX       | RGB              | Pantone  |
 | --------- | ------------ | --------- | ---------------- | -------- |
-| Primary   | ![Primary]   | `#00AEC7` | `R0   G174 B199` | `631 C`  |
+| Primary   | ![Primary]   | `#00AEC7` | `R0   G174 B199` | `3125 C`  |
 | Secondary | ![Secondary] | `#47647B` | `R71  G100 B123` | `7545 C` |
 
 ### ![Primary] Primary Variations
