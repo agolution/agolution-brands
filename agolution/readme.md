@@ -16,10 +16,11 @@
 
 | Type      | Demo         | HEX       | RGB              | Pantone  |
 | --------- | ------------ | --------- | ---------------- | -------- |
-| Primary   | ![Primary]   | `#00AEC7` | `R0   G174 B199` | `3125 C`  |
+| Primary   | ![Primary]   | `#00AEC7` | `R0   G174 B199` | `3125 C` |
 | Secondary | ![Secondary] | `#47647B` | `R71  G100 B123` | `7545 C` |
 
 ### ![Primary] Primary Variations
+
 | Variation     | Demo           | HEX       | RGB              |
 | ------------- | -------------- | --------- | ---------------- |
 | `80%` `Tint`  | ![Primary-t80] | `#CCEFF4` | `R204 G239 B244` |
@@ -32,6 +33,7 @@
 | `80%` `Shade` | ![Primary-s80] | `#002328` | `R0   G35  B40`  |
 
 ### ![Secondary] Secondary Variations
+
 | Variation     | Demo             | HEX       | RGB              |
 | ------------- | ---------------- | --------- | ---------------- |
 | `80%` `Tint`  | ![Secondary-t80] | `#DAE0E5` | `R218 G224 B229` |
@@ -44,6 +46,7 @@
 | `80%` `Shade` | ![Secondary-s80] | `#0E1419` | `R14  G20 B25`   |
 
 ## Fonts
+
 | Type       | Name     | Demo ![Secondary] | Demo ![White] |
 | ---------- | -------- | ----------------- | ------------- |
 | Main Font  | [Lato]   | ![Lato-Secondary] | ![Lato-White] |
@@ -51,7 +54,6 @@
 
 [Primary]: ../helpful-media/00AEC7.png
 [Secondary]: ../helpful-media/47647B.png
-[Primary-light]: ../helpful-media/A4D8E3.png
 [White]: ../helpful-media/FFFFFF.png
 
 [Primary-t20]: ../helpful-media/33BED2.png
