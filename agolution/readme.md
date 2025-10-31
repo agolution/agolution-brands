@@ -54,7 +54,6 @@
 
 [Primary]: ../helpful-media/00AEC7.png
 [Secondary]: ../helpful-media/47647B.png
-[Primary-light]: ../helpful-media/A4D8E3.png
 [White]: ../helpful-media/FFFFFF.png
 
 [Primary-t20]: ../helpful-media/33BED2.png
