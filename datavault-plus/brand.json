@@ -1,0 +1,14 @@
+{
+    "name":"DATAVAULT+",
+    "website":"",
+    "colors":{
+        "primary":{
+            "hex":"#AAC4BB",
+            "rgb":"R170 G196 B187"
+        },
+        "secondary":{
+            "hex":"#47647B",
+            "rgb":"R71 G100 B123"
+        }
+    }
+}

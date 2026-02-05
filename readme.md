@@ -18,6 +18,7 @@ This repository is included by sub-module in other repository to be able to use 
 | [CASHREGISTER+] | ![cashregister-plus-icon] |                           |
 | [DATACAP+]      |   ![datacap-plus-icon]    | <https://datacap.plus>    |
 | [DATARENAME+]   |  ![datarename-plus-icon]  | <https://datarename.plus> |
+| [DATAVAULT+]    |  ![datavault-plus-icon]   |                           |
 | [DOCHISTORY+]   |  ![dochistory-plus-icon]  | <https://dochistory.plus> |
 | [DOCIN+]        |    ![docin-plus-icon]     | <https://docin.plus>      |
 | [DOCOUT+]       |    ![docout-plus-icon]    |                           |
@@ -32,6 +33,7 @@ This repository is included by sub-module in other repository to be able to use 
 [CASHREGISTER+]: cashregister-plus#cashregister
 [DATACAP+]: datacap-plus#datacap
 [DATARENAME+]: datarename-plus#datarename
+[DATAVAULT+]: datavault-plus#datavault
 [DOCHISTORY+]: dochistory-plus#dochistory
 [DOCIN+]: docin-plus#docin
 [DOCOUT+]: docout-plus#docout
@@ -46,6 +48,7 @@ This repository is included by sub-module in other repository to be able to use 
 [cashregister-plus-icon]: cashregister-plus/cashregister-plus-icon-original-50px.png
 [datacap-plus-icon]: datacap-plus/datacap-plus-icon-original-50px.png
 [datarename-plus-icon]: datarename-plus/datarename-plus-icon-original-50px.png
+[datavault-plus-icon]: datavault-plus/datavault-plus-icon-original-50px.png
 [dochistory-plus-icon]: dochistory-plus/dochistory-plus-icon-original-50px.png
 [docin-plus-icon]: docin-plus/docin-plus-icon-original-50px.png
 [docout-plus-icon]: docout-plus/docout-plus-icon-original-50px.png
