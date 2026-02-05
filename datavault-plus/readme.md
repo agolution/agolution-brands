@@ -33,7 +33,7 @@
 [LogoAlt1PNG1000]: datavault-plus-logo-alt1-1000px.png
 [LogoAlt2SVG]: datavault-plus-logo-alt2.svg
 [LogoAlt2PDF]: datavault-plus-logo-alt2.pdf
-[LogoAlt2PNG500]: dataavault-plus-logo-alt2-500px.png
+[LogoAlt2PNG500]: datavault-plus-logo-alt2-500px.png
 [LogoAlt2PNG1000]: datavault-plus-logo-alt2-1000px.png
 
 [IconOriginalSVG]: datavault-plus-icon-original.svg
