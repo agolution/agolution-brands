@@ -1,6 +1,6 @@
-# DATACAP+
+# DATAVAULT+
 
-![DATACAP+ Logo](datavault-plus-logo-original-500px.png)
+![DATAVAULT+ Logo](datavault-plus-logo-original-500px.png)
 
 ## Logos & Icons
 
